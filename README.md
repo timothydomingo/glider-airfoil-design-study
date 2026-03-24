@@ -6,5 +6,5 @@ This project studies justification process for the optimal airfoil camber, AOA, 
 NACA 5412  
 7.5° Angle of Attack  
 0.5 Taper Ratio  
-15° Sweep Angle 
-![][results/final_wing/NACA_5412_0.5TR_15SA.png]
+15° Sweep Angle  
+![](results/final_wing/NACA_5412_0.5TR_15SA.png)
