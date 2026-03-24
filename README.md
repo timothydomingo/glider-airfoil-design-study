@@ -65,7 +65,7 @@ Cl/Cd was plotted against Alpha. Peak glide efficiency was clustered across NACA
 Five taper ratios were evaluated using VLM2 Inviscid analysis in XFLR5. All wings used NACA 5412, shared the same wingspan of 1m and an aspect ratio of around 15, and were analysed at the AoA of 7.5° with zero sweep to isolate the taper effect.
 
 - **Taper ratios tested:** 0.0, 0.2, 0.4, 0.5, 0.6, 0.8 1.0
-- **Sweep angle:** 0° (held constant)
+- **Sweep angle:** 0° 
 - **Analysis:** VLM2 Inviscid, Type 1, 10 m/s, 7.5° AoA
 
 ### Evaluation Criterion
@@ -86,7 +86,7 @@ Spanwise Cl distribution was plotted for each wing. The optimal taper ratio prod
 Four sweep angles were evaluated using VLM2 Inviscid analysis, holding taper ratio fixed at λ = 0.5 from Part 2.
 
 - **Sweep angles tested:** 0°, 5°, 10°, 15°
-- **Taper ratio:** λ = 0.5 (fixed)
+- **Taper ratio:** λ = 0.5 
 - **Analysis:** VLM2 Inviscid, Type 1, 10 m/s
 - **AoA sweep:** −5° to +° 15in 0.5° increments
 
