@@ -53,7 +53,7 @@ Ten NACA four-digit airfoils were analysed using XFoil Direct Analysis in XFLR5,
 
 ### Results
 
-Cl/Cd was plotted against Alpha for all ten airfoils. Peak glide efficiency was closely clustered across NACA 2412–6412, within 1% of each other. NACA 5412 had the higest peak.
+Cl/Cd was plotted against Alpha. Peak glide efficiency was clustered across NACA 2412–6412, within 1% of each other. NACA 5412 had the higest peak.
 
 **Selected: NACA 5412**
 - Peak Cl/Cd = **80** at **7.5° AoA**
@@ -82,7 +82,7 @@ Five taper ratios were evaluated using VLM2 Inviscid analysis in XFLR5. All wing
 
 ### Evaluation Criterion
 
-Spanwise Cl distribution was plotted for each wing. The optimal taper ratio produces a smooth, near-elliptical bell-shaped Cl curve across the span. A flat distribution (rectangular wing) produces higher induced drag; an over-tapered wing risks tip stall.
+Spanwise Cl distribution was plotted for each wing. The optimal taper ratio produces a smooth, near-elliptical bell-shaped Cl curve across the span.
 
 ### Result
 
@@ -100,10 +100,11 @@ Four sweep angles were evaluated using VLM2 Inviscid analysis, holding taper rat
 - **Sweep angles tested:** 0°, 5°, 10°, 15°
 - **Taper ratio:** λ = 0.5 (fixed)
 - **Analysis:** VLM2 Inviscid, Type 1, 10 m/s
+- **AoA sweep:** −5° to +° 15in 0.5° increments
 
 ### Evaluation Criterion
 
-Pitching moment coefficient Cm was plotted against AoA for each sweep angle. Static pitch stability requires a **negative slope** (dCm/dAoA < 0) — a disturbance in pitch must produce a restoring moment, not a diverging one.
+Pitching moment coefficient Cm was plotted against AoA for each sweep angle. Static pitch stability has a negative slop (dCm/dAoA < 0). 15° produced the steepest slope.
 
 ### Result
 
