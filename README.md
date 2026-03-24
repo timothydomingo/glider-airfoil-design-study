@@ -62,7 +62,7 @@ Cl/Cd was plotted against Alpha. Peak glide efficiency was clustered across NACA
 
 ### Method
 
-Five taper ratios were evaluated using VLM2 Inviscid analysis in XFLR5. All wings used NACA 5412, shared the same wingspan of 1m and an aspect ratio of around 15, and were analysed at the AoA of 7.5° with zero sweep to isolate the taper effect.
+Five taper ratios were evaluated using VLM2 Inviscid analysis in XFLR5. All wings used NACA 5412,  the same wingspan of 1m and aspect ratio of around 15, and were analysed at the AoA of 7.5° with zero sweep to isolate the taper effect.
 
 - **Taper ratios tested:** 0.0, 0.2, 0.4, 0.5, 0.6, 0.8 1.0
 - **Sweep angle:** 0° 
@@ -70,7 +70,7 @@ Five taper ratios were evaluated using VLM2 Inviscid analysis in XFLR5. All wing
 
 ### Evaluation Criterion
 
-Spanwise Cl distribution was plotted for each wing. The optimal taper ratio produces a smooth, near-elliptical bell-shaped Cl curve across the span.
+Spanwise Cl distribution was plotted for each wing. The optimal taper ratio produces a smooth, evenly distributed Cl curve across the span.
 
 ### Result
 
@@ -92,7 +92,7 @@ Four sweep angles were evaluated using VLM2 Inviscid analysis, holding taper rat
 
 ### Evaluation Criterion
 
-Pitching moment coefficient Cm was plotted against AoA for each sweep angle. Static pitch stability has a negative slop (dCm/dAoA < 0). 15° produced the steepest slope.
+Pitching moment coefficient Cm was plotted against AoA for each sweep angle. Static pitch stability has a negative slop. 15° produced the steepest slope.
 
 ### Result
 
