@@ -63,7 +63,7 @@ Cl/Cd was plotted against Alpha for all ten airfoils. Peak glide efficiency was 
 
 | Figure | Description |
 |---|---|
-| `results/Xfoil-direct_design_graphs/cl_vs_alpha.png` | Cl vs Alpha — all 10 airfoils |
+| `results/XFoil_direct_design_graphs/cl_vs_alpha.png` | Cl vs Alpha — all 10 airfoils |
 | `results/Xfoil-direct_design_graphs/clcd_vs_alpha.png` | Cl/Cd vs Alpha — all 10 airfoils |
 | `results/Xfoil-direct_design_graphs/cl_vs_cd.png` | Drag polar — all 10 airfoils |
 | `results/Xfoil-direct_design_graphs/legend.png` | Airfoil colour legend |
