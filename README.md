@@ -47,15 +47,6 @@ Cl/Cd was plotted against Alpha. Peak glide efficiency was clustered across NACA
 - Peak Cl/Cd = **80** at **7.5° AoA**
 - Cl = **1.35** at best glide angle
 
-### Figures
-
-| Figure | Description |
-|---|---|
-| ![](results/XFoil_direct_design_graphs/cl_vs_alpha.png) | Cl vs Alpha — all 10 airfoils |
-| ![](results/XFoil_direct_design_graphs/clcd_vs_alpha.png) | Cl/Cd vs Alpha — all 10 airfoils |
-| ![](results/Xfoil-direct_design_graphs/cl_vs_cd.png) | Drag polar — all 10 airfoils |
-| ![](results/Xfoil-direct_design_graphs/legend.png) | Airfoil colour legend |
-
 ---
 
 ## Taper Ratio Selection -VLM2 Inviscid
