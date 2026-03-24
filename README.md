@@ -4,14 +4,12 @@
 Overview
 This study uses XFLR5 to parametrically justify four key design parameters for a hand-launched glider:
 Parameter	Method	Result
-Camber	XFoil Direct Analysis — 10 airfoils	NACA 5412
+Camber	XFoil Direct Analysis 10 airfoils	NACA 5412
 Best AoA	Cl/Cd vs Alpha curve	7.5°
 Taper ratio λ	VLM2 spanwise Cl distribution	λ = 0.5
 Sweep angle Λ	VLM2 Cm vs Alpha slope	Λ = 15°
 # Glider Camber & AoA Study
 **Parametric aerodynamic justification of airfoil camber, angle of attack, taper ratio, and sweep angle using XFLR5.**
-
-Completed as part of the LEAD & FLY application at Embry-Riddle Aeronautical University.
 
 ---
 
